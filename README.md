@@ -24,6 +24,7 @@ Construyo para aprender — estos son mis proyectos más relevantes hasta ahora.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeckanG728&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true&custom_title=Grafico%20de%20Actividad&radius=8)
 
+![Metrics](./github-metrics.svg)
 
 ---
 

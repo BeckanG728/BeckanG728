@@ -1,10 +1,3 @@
-# Hola, soy Beckan 👋
-
-Estudiante de **Ingeniería Informática** enfocado en **desarrollo backend**.
-Construyo para aprender — estos son mis proyectos más relevantes hasta ahora.
-
----
-
 ## 🛠️ Tecnologías
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,html,css)](https://skillicons.dev)

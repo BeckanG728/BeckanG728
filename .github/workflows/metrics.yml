@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,26 +17,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: BeckanG728
-          template: classic
-          base: header, activity, community, repositories, metadata
+          user: TU_USUARIO
 
-          config_timezone: America/Lima
+          committer_branch: main
+
+          template: classic
+          base: header, activity, repositories
 
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-
           plugin_isocalendar: yes
-
-          plugin_stars: yes
-
-          plugin_followup: yes
-
-          plugin_achievements: yes
-
-          plugin_activity: yes
-
-          plugin_activity_limit: 5
-
-          plugin_lines: yes

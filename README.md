@@ -15,6 +15,7 @@ Construyo para aprender — estos son mis proyectos más relevantes hasta ahora.
 
 - [**BlindSector**](https://github.com/BeckanG728/blind-sector)
 - [**SportPulse**](https://github.com/BeckanG728/Equipo10-SportPulseMS)
+- [**BankCore**](https://github.com/BeckanG728/bankcore-microservices)
 
 ---
 
